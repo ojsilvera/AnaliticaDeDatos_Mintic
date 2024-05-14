@@ -12,7 +12,7 @@ y el sector público.
 
 ## Ruta didactica
 
-![alt text](image.png)
+![Ruta didactica](image.png)
 
 ## Cómo navegar el curso
 
