@@ -131,9 +131,43 @@ ver video 15_Herramientas de business analitycs and business intelligent
 
 ## Herramientas de análisis de grandes volúmenes de datos
 
+Ver video 16_Herramientas de análisis de grandes volúmenes de datos
+
 ## Técnicas avanzadas para el análisis de datos
 
+Ver pdf 17_Tecnicas avanzadas
+
 ## Etapas del proceso de análisis de datos
+
+![alt text](image-39.png)
+
+![alt text](image-40.png)
+
+![alt text](image-41.png)
+
+![alt text](image-42.png)
+
+![alt text](image-43.png)
+
+![alt text](image-44.png)
+
+![alt text](image-45.png)
+
+![alt text](image-46.png)
+
+![alt text](image-47.png)
+
+![alt text](image-48.png)
+
+![alt text](image-49.png)
+
+![alt text](image-50.png)
+
+![alt text](image-51.png)
+
+![alt text](image-52.png)
+
+![alt text](image-53.png)
 
 ## Cómo implementar el proceso de análisis de datos en una empresa
 
