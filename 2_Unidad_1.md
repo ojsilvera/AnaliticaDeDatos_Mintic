@@ -127,6 +127,8 @@ ver video 14_Herramientas de extracción y transformación de datos
 
 ## Herramientas de business analitycs and business intelligent
 
+ver video 15_Herramientas de business analitycs and business intelligent
+
 ## Herramientas de análisis de grandes volúmenes de datos
 
 ## Técnicas avanzadas para el análisis de datos
