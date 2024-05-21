@@ -169,9 +169,41 @@ Ver pdf 17_Tecnicas avanzadas
 
 ![alt text](image-53.png)
 
+![alt text](image-54.png)
+
+![alt text](image-55.png)
+
+![alt text](image-56.png)
+
+![alt text](image-57.png)
+
+![alt text](image-58.png)
+
+![alt text](image-59.png)
+
 ## Cómo implementar el proceso de análisis de datos en una empresa
 
+Ver video 18_Cómo implementar el proceso de análisis de datos en una empresa
+
 ## Errores al implementar incorrectamente los procesos
+
+![alt text](image-60.png)
+
+![alt text](image-61.png)
+
+![alt text](image-62.png)
+
+![alt text](image-63.png)
+
+![alt text](image-64.png)
+
+![alt text](image-65.png)
+
+![alt text](image-66.png)
+
+![alt text](image-67.png)
+
+![alt text](image-68.png)
 
 ## Empresas data driven
 
