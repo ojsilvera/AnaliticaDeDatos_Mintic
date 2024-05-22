@@ -231,4 +231,30 @@ Ver video 19_Empresas data driven
 
 ## Herramientas para la analítica de datos
 
+ver video 20_AD_Herramientas
+
 ## Datos curiosos
+
+![alt text](image-78.png)
+
+![alt text](image-79.png)
+
+![alt text](image-80.png)
+
+![alt text](image-81.png)
+
+![alt text](image-82.png)
+
+![alt text](image-83.png)
+
+![alt text](image-84.png)
+
+![alt text](image-85.png)
+
+![alt text](image-86.png)
+
+![alt text](image-87.png)
+
+![alt text](image-88.png)
+
+![alt text](image-89.png)
