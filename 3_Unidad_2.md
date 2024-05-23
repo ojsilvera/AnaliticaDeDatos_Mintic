@@ -6,9 +6,27 @@ Ver video 1_Introduccion
 
 ## Clasificaciones de las fuentes de datos
 
+Ver video 2_fuentes de datos
+
 ## Importancia de las fuentes de datos
 
+Ver pdf 3_importancia de las fuentes de datos
+
 ## Errores comunes en la selección de fuentes de datos
+
+![alt text](image-90.png)
+
+![alt text](image-91.png)
+
+![alt text](image-92.png)
+
+![alt text](image-93.png)
+
+![alt text](image-94.png)
+
+![alt text](image-95.png)
+
+![alt text](image-96.png)
 
 ## Técnicas de recolección de datos
 
