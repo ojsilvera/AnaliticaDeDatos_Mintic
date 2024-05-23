@@ -78,7 +78,17 @@ ver pdf 5_Preceso de recoleccion de datos
 
 ## Tipos de datos
 
+ver video 6_Tipos de datos
+
 ## Tipos de fuentes de datos
+
+![alt text](image-116.png)
+
+![alt text](image-118.png)
+
+![alt text](image-119.png)
+
+![alt text](image-120.png)
 
 ## Limpieza y transformación de datos
 
