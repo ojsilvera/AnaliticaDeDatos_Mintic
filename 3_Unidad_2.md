@@ -30,7 +30,11 @@ Ver pdf 3_importancia de las fuentes de datos
 
 ## Técnicas de recolección de datos
 
+ver video 4_Técnicas de recolección de datos
+
 ## Proceso de recolección y preparación de datos
+
+ver pdf 5_Preceso de recoleccion de datos
 
 ## Software y plataformas de encuestas
 
