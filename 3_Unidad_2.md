@@ -113,5 +113,3 @@ ver pdf 10_Herramientas populares
 ## Ejemplo para la transformación de datos
 
 ver video 11_Ejemplo Limpieza y Transformación de datos
-
-## Lección 16 - Ejemplo para la transformación de datos
