@@ -92,14 +92,26 @@ ver video 6_Tipos de datos
 
 ## Limpieza y transformación de datos
 
+ver video 7_Limpieza y transformación de datos
+
 ## Ciclo analitica limpieza y tipos de datos
+
+![alt text](image-121.png)
 
 ## Limpieza de Datos
 
+Ver video 8_Proceso de Limpieza de Datos
+
 ## Herramientas y técnicas para la limpieza y transformación
+
+ver video 9_Limpieza, herramientas y tecnicas
 
 ## Herramientas más populares
 
+ver pdf 10_Herramientas populares
+
 ## Ejemplo para la transformación de datos
+
+ver video 11_Ejemplo Limpieza y Transformación de datos
 
 ## Lección 16 - Ejemplo para la transformación de datos
