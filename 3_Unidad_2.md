@@ -2,6 +2,8 @@
 
 ## Introducción
 
+Ver video 1_Introduccion
+
 ## Clasificaciones de las fuentes de datos
 
 ## Importancia de las fuentes de datos
