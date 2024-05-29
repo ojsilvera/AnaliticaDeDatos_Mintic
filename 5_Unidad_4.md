@@ -112,7 +112,11 @@ competitivo y dinámico.
 
 ## Complemento: Analítica de datos en el ámbito empresarial
 
+Ver pdf 3_Analitica de datos en el ambito empresarial
+
 ## Avance: Analítica de datos en el ámbito empresarial
+
+Ver video 4_Analitica de datos en el ambito empresarial
 
 ## Analítica de datos en la salud
 
