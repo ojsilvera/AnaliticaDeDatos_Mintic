@@ -102,33 +102,190 @@ ver video 3_Profundización_Análisis exploratorio de datos
 
 ## Métodos estadísticos básicos para el análisis de datos
 
-El análisis de datos es un proceso multidimensional que implica la aplicación de varias técnicas y metodologías con el objetivo de extraer información útil, sugerir conclusiones y apoyar la toma de decisiones. Los métodos estadísticos juegan un papel fundamental en este proceso, proporcionando un marco para analizar, interpretar y predecir fenómenos basándose en datos. Los métodos estadísticos básicos, tales como pruebas de hipótesis, análisis de regresión y análisis de varianza, son herramientas esenciales en la caja de herramientas de un analista de datos.
+El análisis de datos es un proceso multidimensional que implica la aplicación de varias técnicas y metodologías con el
+objetivo de extraer información útil, sugerir conclusiones y apoyar la toma de decisiones. Los métodos estadísticos juegan
+un papel fundamental en este proceso, proporcionando un marco para analizar, interpretar y predecir fenómenos basándose en
+datos. Los métodos estadísticos básicos, tales como pruebas de hipótesis, análisis de regresión y análisis de varianza, son
+herramientas esenciales en la caja de herramientas de un analista de datos.
 
-**Las pruebas de hipótesis** son una de las técnicas más comunes utilizadas en el análisis de datos. Una prueba de hipótesis es un método estadístico que se utiliza para tomar decisiones sobre una población basándose en una muestra de datos. La hipótesis nula, que es la afirmación que se está probando, generalmente representa una situación de "no cambio" o "no efecto". La hipótesis alternativa, por otro lado, representa una situación de "cambio" o "efecto". La decisión sobre si rechazar o no la hipótesis nula se basa en el valor p de la prueba, que es la probabilidad de obtener los datos observados si la hipótesis nula es verdadera.
+**Las pruebas de hipótesis** son una de las técnicas más comunes utilizadas en el análisis de datos. Una prueba de hipótesis
+es un método estadístico que se utiliza para tomar decisiones sobre una población basándose en una muestra de datos. La
+hipótesis nula, que es la afirmación que se está probando, generalmente representa una situación de "no cambio" o "no
+efecto". La hipótesis alternativa, por otro lado, representa una situación de "cambio" o "efecto". La decisión sobre si
+rechazar o no la hipótesis nula se basa en el valor p de la prueba, que es la probabilidad de obtener los datos observados
+si la hipótesis nula es verdadera.
 
-**El análisis de regresión** es un método estadístico que explora la relación entre una variable dependiente y una o más variables independientes. En su forma más simple, la regresión lineal, se asume una relación lineal entre las variables. Los coeficientes de regresión, que se estiman a partir de los datos, describen la magnitud y la dirección de la relación entre las variables. El análisis de regresión puede ser utilizado para predecir el valor de la variable dependiente basándose en los valores de las variables independientes.
+**El análisis de regresión** es un método estadístico que explora la relación entre una variable dependiente y una o más
+variables independientes. En su forma más simple, la regresión lineal, se asume una relación lineal entre las variables. Los
+coeficientes de regresión, que se estiman a partir de los datos, describen la magnitud y la dirección de la relación entre
+las variables. El análisis de regresión puede ser utilizado para predecir el valor de la variable dependiente basándose en
+los valores de las variables independientes.
 
-**El Análisis de Varianza** es un método estadístico utilizado para comparar las medias de dos o más grupos. ANOVA divide la variabilidad total en los datos en variabilidad debida a los grupos (variabilidad entre grupos) y variabilidad dentro de los grupos (variabilidad dentro de los grupos). Si la variabilidad entre grupos es significativamente mayor que la variabilidad dentro de los grupos, entonces se concluye que hay una diferencia significativa entre los grupos.
+**El Análisis de Varianza** es un método estadístico utilizado para comparar las medias de dos o más grupos. ANOVA divide la
+variabilidad total en los datos en variabilidad debida a los grupos (variabilidad entre grupos) y variabilidad dentro de los
+grupos (variabilidad dentro de los grupos). Si la variabilidad entre grupos es significativamente mayor que la variabilidad
+dentro de los grupos, entonces se concluye que hay una diferencia significativa entre los grupos.
 
-**La correlación y la covarianza** son dos medidas estadísticas que se utilizan para evaluar la relación entre dos o más variables. La correlación es una medida normalizada de la dependencia lineal entre dos variables y varía entre -1 y 1. Un valor de correlación positivo indica que las variables tienden a aumentar o disminuir juntas, mientras que un valor negativo indica que una variable tiende a aumentar cuando la otra disminuye. La covarianza, por otro lado, es una medida de la variación conjunta de dos variables aleatorias con respecto a sus medias. Si bien la correlación es una medida adimensional de la relación entre las variables, la covarianza está en las unidades del producto de las dos variables.
+**La correlación y la covarianza** son dos medidas estadísticas que se utilizan para evaluar la relación entre dos o más
+variables. La correlación es una medida normalizada de la dependencia lineal entre dos variables y varía entre -1 y 1. Un
+valor de correlación positivo indica que las variables tienden a aumentar o disminuir juntas, mientras que un valor negativo
+indica que una variable tiende a aumentar cuando la otra disminuye. La covarianza, por otro lado, es una medida de la
+variación conjunta de dos variables aleatorias con respecto a sus medias. Si bien la correlación es una medida adimensional
+de la relación entre las variables, la covarianza está en las unidades del producto de las dos variables.
 
-**Las pruebas de normalidad** son utilizadas para determinar si un conjunto de datos se ajusta a una distribución normal. Esto es relevante porque muchos de los métodos estadísticos asumen que los datos se distribuyen normalmente. Las pruebas de normalidad incluyen el test de Shapiro-Wilk, el test de Anderson-Darling, el test de Kolmogorov-Smirnov, entre otros. Los resultados de estas pruebas, junto con gráficos como el histograma y el gráfico Q-Q, pueden proporcionar una buena indicación de si los datos son normalmente distribuidos o no.
+**Las pruebas de normalidad** son utilizadas para determinar si un conjunto de datos se ajusta a una distribución normal.
+Esto es relevante porque muchos de los métodos estadísticos asumen que los datos se distribuyen normalmente. Las pruebas de
+normalidad incluyen el test de Shapiro-Wilk, el test de Anderson-Darling, el test de Kolmogorov-Smirnov, entre otros. Los
+resultados de estas pruebas, junto con gráficos como el histograma y el gráfico Q-Q, pueden proporcionar una buena
+indicación de si los datos son normalmente distribuidos o no.
 
-**La estadística descriptiva** se utiliza para resumir y describir los datos. Esto incluye medidas de tendencia central, como la media, la mediana y la moda; medidas de dispersión, como la varianza, la desviación estándar, el rango y el coeficiente de variación; y medidas de forma, como la asimetría y la curtosis. Estas medidas proporcionan una visión general de los datos y pueden ayudar a identificar patrones y anomalías.
+**La estadística descriptiva** se utiliza para resumir y describir los datos. Esto incluye medidas de tendencia central,
+como la media, la mediana y la moda; medidas de dispersión, como la varianza, la desviación estándar, el rango y el
+coeficiente de variación; y medidas de forma, como la asimetría y la curtosis. Estas medidas proporcionan una visión general
+de los datos y pueden ayudar a identificar patrones y anomalías.
 
-**La estadística inferencial**, Mientras que la estadística descriptiva se centra en describir los datos, la estadística inferencial se utiliza para hacer inferencias sobre una población basándose en una muestra de datos. Esto implica el uso de pruebas de hipótesis, intervalos de confianza, análisis de regresión y otros métodos estadísticos para estimar parámetros de la población, probar hipótesis y predecir resultados futuros.
+**La estadística inferencial**, Mientras que la estadística descriptiva se centra en describir los datos, la estadística
+inferencial se utiliza para hacer inferencias sobre una población basándose en una muestra de datos. Esto implica el uso de
+pruebas de hipótesis, intervalos de confianza, análisis de regresión y otros métodos estadísticos para estimar parámetros de
+la población, probar hipótesis y predecir resultados futuros.
+
+Los métodos estadísticos proporcionan un marco sólido para el análisis de datos, permitiendo a los analistas de datos
+extraer información valiosa, identificar relaciones, probar hipótesis y hacer predicciones basándose en datos. Sin embargo,
+es importante recordar que la estadística es sólo una herramienta, y su eficacia depende en gran medida de su aplicación
+correcta y de una interpretación cuidadosa de los resultados.
 
 ## Métodos estadísticos básicos para el análisis de datos profundizacion
 
+ver pdf 4_Métodos estadísticos básicos para el análisis de datos
+
 ## Técnicas de visualización de datos
+
+La visualización de datos es una disciplina que se ocupa de la representación gráfica de la información. A través del uso de elementos visuales como gráficos, diagramas y mapas, la visualización de datos es una forma eficaz de comunicar información compleja y de facilitar la exploración y el análisis de datos. En la era del big data, la visualización de datos se ha convertido en una habilidad esencial para los analistas de datos y es una parte integral del proceso de análisis de datos.
+
+Gráficos de barras y de columnas: Los gráficos de barras y de columnas son uno de los tipos de visualizaciones más comunes y son útiles para representar datos categóricos. En un gráfico de barras, las categorías se trazan a lo largo del eje vertical y las cantidades a lo largo del eje horizontal. En un gráfico de columnas, esto se invierte, con las categorías a lo largo del eje horizontal y las cantidades a lo largo del eje vertical. Estos gráficos son efectivos para comparar cantidades en diferentes categorías.
+
+Histogramas y gráficos de densidad: Un histograma es un gráfico que muestra la distribución de frecuencias de un conjunto de datos continuos o discretos. En un histograma, los datos se agrupan en intervalos o "bins", y el número de datos en cada bin se representa mediante barras. Los gráficos de densidad son una variante suavizada de los histogramas, que representan la distribución de probabilidad de los datos.
+
+Gráficos de líneas y de áreas: Los gráficos de líneas y de áreas son útiles para representar datos continuos a lo largo del tiempo. En un gráfico de líneas, los datos se representan mediante puntos que se conectan con líneas, lo que permite visualizar tendencias y patrones a lo largo del tiempo. Los gráficos de áreas son similares a los gráficos de líneas, pero el área bajo la línea se rellena con color, lo que puede ser útil para comparar dos o más series de tiempo.
+
+Diagramas de dispersión y gráficos de burbujas: Los diagramas de dispersión son útiles para visualizar la relación entre dos variables numéricas. Cada punto en el gráfico representa una observación, con su posición en el eje horizontal y vertical que indica sus valores para las dos variables. Los gráficos de burbujas son una extensión de los diagramas de dispersión, en los que una tercera dimensión se representa mediante el tamaño de las burbujas.
+
+Mapas de calor, gráficos de contorno y superficies tridimensionales: Los mapas de calor, gráficos de contorno y superficies tridimensionales son útiles para visualizar datos en tres o más dimensiones. En un mapa de calor, los datos se representan mediante colores, con diferentes colores o intensidades de color que representan diferentes valores. Los gráficos de contorno y las superficies tridimensionales son útiles para representar relaciones entre tres variables numéricas, con la tercera dimensión representada mediante contornos o alturas.
+
+Diagramas de caja (Box Plots): Un diagrama de caja es una forma de visualización de datos que resume la distribución de una variable numérica. El diagrama de caja muestra el cuartil inferior, la mediana (o segundo cuartil), el cuartil superior y los valores extremos (o "outliers") de los datos. Los diagramas de caja son especialmente útiles para comparar la distribución de una variable numérica a través de diferentes categorías.
+
+Diagramas de violín: Los diagramas de violín combinan las características de un diagrama de caja y un gráfico de densidad. Al igual que en un diagrama de caja, los datos se resumen en cuartiles, pero también se representa la densidad de los datos en cada nivel. Esto permite tener una visión más detallada de la distribución de los datos, incluyendo la densidad y la simetría.
+
+Gráficos de red y de árbol: Los gráficos de red son útiles para visualizar relaciones complejas entre diferentes entidades. Los nodos representan entidades y las líneas entre ellos representan relaciones. Los gráficos de árbol, por otro lado, son útiles para visualizar estructuras jerárquicas. Los nodos representan categorías o grupos y las líneas que los conectan representan relaciones de subordinación.
+
+Gráficos de radar: Los gráficos de radar, también conocidos como gráficos de araña, son útiles para comparar varias variables cuantitativas. Cada eje de un gráfico de radar representa una variable, y los valores de las variables se trazan en cada eje. Los puntos se conectan para formar una figura que puede ser comparada con otras.
+
+Dashboards e Informes Interactivos: Los dashboards son una forma efectiva de presentar múltiples visualizaciones de datos relacionadas en una única interfaz. Los informes interactivos permiten a los usuarios explorar los datos y ajustar las visualizaciones a sus necesidades. Esto puede implicar la filtración de datos, la selección de diferentes visualizaciones o la modificación de los parámetros de las visualizaciones.
+
+La visualización de datos no es solo un arte, sino también una ciencia. Requiere un equilibrio entre la estética y la funcionalidad, y entre la simplicidad y la complejidad. Los analistas de datos deben estar familiarizados con una variedad de técnicas de visualización y ser capaces de seleccionar y aplicar la técnica más adecuada para cada conjunto de datos y cada pregunta de análisis. Sin embargo, lo más importante es que la visualización de datos debe servir para aclarar, no para confundir, y siempre debe estar al servicio de una mejor comprensión y comunicación de los datos.
 
 ## Complemento: Técnicas de visualización de datos
 
+vere pdf 5_Complemento_Técnicas de visualización de datos
+
 ## Profundización: Técnicas de visualización de datos
+
+Ver video 6_Profundización_Técnicas de visualización de datos
 
 ## Herramientas de visualización de datos
 
+En el ámbito del análisis de datos, la visualización juega un papel esencial en la presentación efectiva y comprensión de la
+información. Las herramientas de visualización de datos, como gráficos, tablas y dashboards, son herramientas fundamentales
+que permiten a los analistas de datos comunicar patrones, tendencias y hallazgos clave de manera clara y concisa a una
+amplia audiencia. Esta introducción explorará las características y beneficios de estas herramientas, destacando su papel en
+el proceso de análisis de datos y cómo contribuyen a una toma de decisiones informada.
+
+Los gráficos son representaciones visuales de datos que permiten resumir y comunicar información compleja en una forma
+accesible y comprensible. Existen diversos tipos de gráficos, como gráficos de barras, gráficos de líneas, gráficos de
+dispersión, gráficos de torta, entre otros. Cada tipo de gráfico es adecuado para diferentes tipos de datos y objetivos de
+visualización. Por ejemplo, los gráficos de barras son útiles para comparar categorías o grupos, mientras que los gráficos
+de líneas son ideales para mostrar tendencias a lo largo del tiempo. Los gráficos de dispersión son eficaces para analizar
+la relación entre dos variables numéricas.
+
+Las tablas son una forma organizada de presentar datos en filas y columnas. Son particularmente útiles cuando se necesita
+presentar datos precisos o detallados que no pueden ser fácilmente representados en gráficos. Las tablas pueden mostrar
+valores numéricos, descripciones de categorías, así como otros atributos de los datos. Además, las tablas pueden ser
+utilizadas para realizar cálculos y resumir información mediante el uso de funciones como sumas, promedios o conteos.
+
+Los dashboards son herramientas de visualización más sofisticadas que combinan múltiples gráficos, tablas e indicadores
+clave en una única interfaz interactiva. Estas interfaces brindan una visión completa de los datos y permiten a los usuarios
+explorar y analizar la información a su propio ritmo. Los dashboards son especialmente valiosos en entornos empresariales,
+ya que facilitan la supervisión de indicadores clave de rendimiento (KPIs), el seguimiento de métricas y el análisis de
+datos en tiempo real. La creación de dashboards efectivos requiere una cuidadosa selección de gráficos y tablas relevantes,
+así como una disposición visual coherente y clara.
+
+**Importancia de las Herramientas de Visualización:**
+
+Las herramientas de visualización de datos desempeñan un papel crucial en el análisis de datos porque permiten:
+
+Las visualizaciones ayudan a simplificar la complejidad de los datos y permiten a los usuarios comprender fácilmente
+patrones y relaciones.
+
+Las visualizaciones destacan patrones y tendencias que pueden pasar desapercibidos en una tabla de datos o en una
+presentación de texto.
+
+Tomar desiciones informadas: Una visualización clara y concisa permite una toma de decisiones más fundamentada y basada en
+evidencias.
+
+Comunicar informacion de manera efectiva: Las visualizaciones atractivas y bien diseñadas tienen un mayor impacto en la
+audiencia y facilitan la comunicación de resultados a stakeholders y equipos multidisciplinarios.
+
+**Herramientas de visualización de datos:**
+
+Existen diversas herramientas de visualización de datos disponibles en el mercado que permiten a los analistas y
+profesionales crear visualizaciones efectivas. Algunas de las herramientas más populares incluyen Tableau, Microsoft Power
+BI, Python con librerías como Matplotlib, Seaborn y Plotly, R con ggplot2, entre otras. Estas herramientas ofrecen una
+amplia gama de opciones de gráficos y funcionalidades interactivas para crear visualizaciones personalizadas y dinámicas.
+
+**Buenas Prácticas en Visualización de Datos:**
+
+Aunque las herramientas de visualización de datos proporcionan una amplia flexibilidad para crear representaciones gráficas,
+es importante seguir algunas buenas prácticas para asegurar que las visualizaciones sean efectivas y comunicativas:
+
+Simplicidad: Evitar la sobrecarga visual y mantener las visualizaciones lo más simples y claras posible. Eliminar elementos
+innecesarios que puedan distraer o confundir al espectador.
+
+Legibilidad: Utilizar tamaños de fuente adecuados y colores contrastantes para facilitar la lectura de los datos. Etiquetar
+adecuadamente los ejes y proporcionar una leyenda clara cuando sea necesario.
+
+Consistensia: Mantener un estilo visual coherente en todas las visualizaciones dentro de un informe o dashboard. Utilizar la
+misma paleta de colores, tipos de gráficos y formatos para facilitar la comparación y la interpretación.
+
+Precision: Asegurarse de que la visualización represente fielmente los datos y que no se distorsione la información. Evitar
+trucos visuales o escalas engañosas que puedan llevar a interpretaciones incorrectas.
+
+Interactividad: Cuando se usen dashboards interactivos, proporcionar opciones para que los usuarios puedan explorar los
+datos en detalle, pero mantener la navegación intuitiva y fácil de usar.
+
+Contexto y narrativa: Proporcionar contexto y una narrativa clara alrededor de las visualizaciones para ayudar a los
+espectadores a entender el propósito y el significado de los datos presentados.
+
+**Etica y resposabilidad:**
+
+Los analistas de datos deben ser conscientes de la responsabilidad ética de la visualización de datos. La manipulación
+intencional o sesgada de visualizaciones puede conducir a interpretaciones erróneas o incluso a la promoción de información
+falsa. Es importante presentar los datos de manera imparcial y objetiva, evitando sesgos o interpretaciones sesgadas.
+
+Además, la privacidad y la seguridad de los datos deben ser consideraciones importantes al compartir visualizaciones,
+especialmente si contienen información sensible o confidencial. Los analistas de datos deben asegurarse de cumplir con las
+regulaciones de protección de datos y garantizar la anonimización adecuada cuando sea necesario.
+
+Las herramientas de visualización de datos, como gráficos, tablas y dashboards, son recursos valiosos para los analistas de
+datos en el proceso de análisis y comunicación de información. Estas herramientas permiten presentar datos de manera
+efectiva, identificar patrones y tendencias, tomar decisiones informadas y comunicar resultados de manera clara y concisa.
+Al seguir buenas prácticas en visualización de datos y actuar con responsabilidad ética, los analistas de datos pueden
+aprovechar al máximo estas herramientas para proporcionar información valiosa y apoyar la toma de decisiones en una amplia
+gama de campos y sectores. La visualización de datos es un arte y una ciencia, y su dominio es esencial para convertir los
+datos en conocimiento accionable.
+
 ## Complemento: Herramientas de visualización de datos
+
+vere pdf 7_Herramientas de visualización de datos graficos, tablas, dashboards
 
 ## Profundización: Herramientas de visualización de datos
 
