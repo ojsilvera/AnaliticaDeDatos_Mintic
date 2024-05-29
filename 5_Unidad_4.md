@@ -2,7 +2,11 @@
 
 ## Introducción
 
+Ver video 1_Bienvenida
+
 ## Analisis completo
+
+Ver video 2_Analisis completo
 
 ## Analítica de datos en el ámbito empresarial
 
