@@ -94,9 +94,29 @@ proporcionando una base sólida para las etapas posteriores del análisis de dat
 
 ## Complemento: Análisis exploratorio de datos
 
+Ver pdf 2_Análisis exploratorio de datos
+
 ## Profundización: Análisis exploratorio de datos
 
+ver video 3_Profundización_Análisis exploratorio de datos
+
 ## Métodos estadísticos básicos para el análisis de datos
+
+El análisis de datos es un proceso multidimensional que implica la aplicación de varias técnicas y metodologías con el objetivo de extraer información útil, sugerir conclusiones y apoyar la toma de decisiones. Los métodos estadísticos juegan un papel fundamental en este proceso, proporcionando un marco para analizar, interpretar y predecir fenómenos basándose en datos. Los métodos estadísticos básicos, tales como pruebas de hipótesis, análisis de regresión y análisis de varianza, son herramientas esenciales en la caja de herramientas de un analista de datos.
+
+**Las pruebas de hipótesis** son una de las técnicas más comunes utilizadas en el análisis de datos. Una prueba de hipótesis es un método estadístico que se utiliza para tomar decisiones sobre una población basándose en una muestra de datos. La hipótesis nula, que es la afirmación que se está probando, generalmente representa una situación de "no cambio" o "no efecto". La hipótesis alternativa, por otro lado, representa una situación de "cambio" o "efecto". La decisión sobre si rechazar o no la hipótesis nula se basa en el valor p de la prueba, que es la probabilidad de obtener los datos observados si la hipótesis nula es verdadera.
+
+**El análisis de regresión** es un método estadístico que explora la relación entre una variable dependiente y una o más variables independientes. En su forma más simple, la regresión lineal, se asume una relación lineal entre las variables. Los coeficientes de regresión, que se estiman a partir de los datos, describen la magnitud y la dirección de la relación entre las variables. El análisis de regresión puede ser utilizado para predecir el valor de la variable dependiente basándose en los valores de las variables independientes.
+
+**El Análisis de Varianza** es un método estadístico utilizado para comparar las medias de dos o más grupos. ANOVA divide la variabilidad total en los datos en variabilidad debida a los grupos (variabilidad entre grupos) y variabilidad dentro de los grupos (variabilidad dentro de los grupos). Si la variabilidad entre grupos es significativamente mayor que la variabilidad dentro de los grupos, entonces se concluye que hay una diferencia significativa entre los grupos.
+
+**La correlación y la covarianza** son dos medidas estadísticas que se utilizan para evaluar la relación entre dos o más variables. La correlación es una medida normalizada de la dependencia lineal entre dos variables y varía entre -1 y 1. Un valor de correlación positivo indica que las variables tienden a aumentar o disminuir juntas, mientras que un valor negativo indica que una variable tiende a aumentar cuando la otra disminuye. La covarianza, por otro lado, es una medida de la variación conjunta de dos variables aleatorias con respecto a sus medias. Si bien la correlación es una medida adimensional de la relación entre las variables, la covarianza está en las unidades del producto de las dos variables.
+
+**Las pruebas de normalidad** son utilizadas para determinar si un conjunto de datos se ajusta a una distribución normal. Esto es relevante porque muchos de los métodos estadísticos asumen que los datos se distribuyen normalmente. Las pruebas de normalidad incluyen el test de Shapiro-Wilk, el test de Anderson-Darling, el test de Kolmogorov-Smirnov, entre otros. Los resultados de estas pruebas, junto con gráficos como el histograma y el gráfico Q-Q, pueden proporcionar una buena indicación de si los datos son normalmente distribuidos o no.
+
+**La estadística descriptiva** se utiliza para resumir y describir los datos. Esto incluye medidas de tendencia central, como la media, la mediana y la moda; medidas de dispersión, como la varianza, la desviación estándar, el rango y el coeficiente de variación; y medidas de forma, como la asimetría y la curtosis. Estas medidas proporcionan una visión general de los datos y pueden ayudar a identificar patrones y anomalías.
+
+**La estadística inferencial**, Mientras que la estadística descriptiva se centra en describir los datos, la estadística inferencial se utiliza para hacer inferencias sobre una población basándose en una muestra de datos. Esto implica el uso de pruebas de hipótesis, intervalos de confianza, análisis de regresión y otros métodos estadísticos para estimar parámetros de la población, probar hipótesis y predecir resultados futuros.
 
 ## Métodos estadísticos básicos para el análisis de datos profundizacion
 
