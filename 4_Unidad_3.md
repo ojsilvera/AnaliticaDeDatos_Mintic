@@ -48,17 +48,49 @@ patrones y relaciones que pueden no ser evidentes en una inspección superficial
 
 ![alt text](image-124.png)
 
-El EDA es un paso crucial en el proceso de análisis de datos por varias razones. Primero, ayuda a los analistas a entender la estructura y las propiedades de los datos, lo cual es esencial para seleccionar las técnicas de modelado o inferencia adecuadas. Segundo, puede ayudar a identificar errores, valores atípicos y anomalías en los datos que pueden afectar los resultados del análisis. Tercero, puede revelar patrones y relaciones en los datos que pueden informar el desarrollo de hipótesis y la selección de variables para el análisis posterior.
+El EDA es un paso crucial en el proceso de análisis de datos por varias razones. Primero, ayuda a los analistas a entender
+la estructura y las propiedades de los datos, lo cual es esencial para seleccionar las técnicas de modelado o inferencia
+adecuadas. Segundo, puede ayudar a identificar errores, valores atípicos y anomalías en los datos que pueden afectar los
+resultados del análisis. Tercero, puede revelar patrones y relaciones en los datos que pueden informar el desarrollo de
+hipótesis y la selección de variables para el análisis posterior.
 
 Tecnicas multivariadas
 
-Este tipo de análisis examina dos o más variables simultáneamente para identificar relaciones y dependencias entre ellas. Las técnicas multivariadas comúnmente utilizadas incluyen la construcción de gráficos de dispersión, que muestran la relación entre dos variables, y el cálculo de medidas de correlación, como el coeficiente de correlación de Pearson, que cuantifica la relación lineal entre dos variables.
+Este tipo de análisis examina dos o más variables simultáneamente para identificar relaciones y dependencias entre ellas.
+Las técnicas multivariadas comúnmente utilizadas incluyen la construcción de gráficos de dispersión, que muestran la
+relación entre dos variables, y el cálculo de medidas de correlación, como el coeficiente de correlación de Pearson, que
+cuantifica la relación lineal entre dos variables.
 
 Tecnicas univariadas
 
-Este tipo de análisis se enfoca en una sola variable a la vez. Las técnicas univariadas comúnmente utilizadas incluyen el análisis de la distribución de frecuencias, donde se cuenta el número de veces que cada valor de una variable aparece en el conjunto de datos, y la construcción de histogramas, que proporciona una representación visual de la distribución de una variable. Estos análisis pueden revelar patrones en la distribución de los datos, como por ejemplo, si los datos están sesgados a la izquierda o a la derecha, o si hay valores atípicos evidentes.
+Este tipo de análisis se enfoca en una sola variable a la vez. Las técnicas univariadas comúnmente utilizadas incluyen el
+análisis de la distribución de frecuencias, donde se cuenta el número de veces que cada valor de una variable aparece en el
+conjunto de datos, y la construcción de histogramas, que proporciona una representación visual de la distribución de una
+variable. Estos análisis pueden revelar patrones en la distribución de los datos, como por ejemplo, si los datos están
+sesgados a la izquierda o a la derecha, o si hay valores atípicos evidentes.
 
+desafíos y consideraciones en EDA
 
+Uno de los principales desafíos es la "maldición de la dimensionalidad", es decir, la dificultad de visualizar y entender
+los datos en espacios de alta dimensión. A medida que el número de variables en un conjunto de datos aumenta, la dificultad
+de explorar y visualizar todas las combinaciones posibles de variables también aumenta exponencialmente.
+
+Además, el EDA debe realizarse con cuidado para evitar sesgos y malinterpretaciones. Por ejemplo, la correlación no implica
+causalidad: aunque dos variables pueden estar correlacionadas, esto no significa necesariamente que una variable cause el
+cambio en la otra. Además, los valores atípicos pueden tener un gran efecto en las estadísticas descriptivas y las
+visualizaciones, y deben tratarse adecuadamente para evitar conclusiones engañosas.
+
+El papel del EDA en la Ciencia de Datos:
+
+El análisis exploratorio de datos es un componente crucial de la ciencia de datos. Proporciona el contexto necesario para el
+desarrollo y ajuste de modelos de aprendizaje automático y permite a los científicos de datos generar y refinar hipótesis.
+Además, el EDA es un componente esencial del "ciclo de vida" de un proyecto de ciencia de datos, que generalmente incluye la
+recopilación de datos, la limpieza de datos, el EDA, el modelado, la interpretación y la comunicación de los resultados.
+
+El análisis exploratorio de datos es una parte fundamental de cualquier proceso de análisis de datos, proporcionando una
+forma sistemática de examinar, entender y describir el conjunto de datos a mano. A través de técnicas visuales y
+estadísticas, los analistas pueden descubrir patrones, detectar anomalías, probar hipótesis y verificar supuestos,
+proporcionando una base sólida para las etapas posteriores del análisis de datos.
 
 ## Complemento: Análisis exploratorio de datos
 
