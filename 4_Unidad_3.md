@@ -46,6 +46,20 @@ Basándose en los resultados de las estadísticas descriptivas y las visualizaci
 preguntas e hipótesis para investigar. Este proceso iterativo permite al analista profundizar en los datos y descubrir
 patrones y relaciones que pueden no ser evidentes en una inspección superficial.
 
+![alt text](image-124.png)
+
+El EDA es un paso crucial en el proceso de análisis de datos por varias razones. Primero, ayuda a los analistas a entender la estructura y las propiedades de los datos, lo cual es esencial para seleccionar las técnicas de modelado o inferencia adecuadas. Segundo, puede ayudar a identificar errores, valores atípicos y anomalías en los datos que pueden afectar los resultados del análisis. Tercero, puede revelar patrones y relaciones en los datos que pueden informar el desarrollo de hipótesis y la selección de variables para el análisis posterior.
+
+Tecnicas multivariadas
+
+Este tipo de análisis examina dos o más variables simultáneamente para identificar relaciones y dependencias entre ellas. Las técnicas multivariadas comúnmente utilizadas incluyen la construcción de gráficos de dispersión, que muestran la relación entre dos variables, y el cálculo de medidas de correlación, como el coeficiente de correlación de Pearson, que cuantifica la relación lineal entre dos variables.
+
+Tecnicas univariadas
+
+Este tipo de análisis se enfoca en una sola variable a la vez. Las técnicas univariadas comúnmente utilizadas incluyen el análisis de la distribución de frecuencias, donde se cuenta el número de veces que cada valor de una variable aparece en el conjunto de datos, y la construcción de histogramas, que proporciona una representación visual de la distribución de una variable. Estos análisis pueden revelar patrones en la distribución de los datos, como por ejemplo, si los datos están sesgados a la izquierda o a la derecha, o si hay valores atípicos evidentes.
+
+
+
 ## Complemento: Análisis exploratorio de datos
 
 ## Profundización: Análisis exploratorio de datos
