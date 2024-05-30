@@ -348,7 +348,21 @@ gobiernos como a los ciudadanos y contribuyendo a un mejor bienestar y calidad d
 
 ## Complemento: Analítica de datos en el sector público
 
+Ver pdf 10_Analítica de datos en el sector público
+
 ## Profundización: Analítica de datos en el sector público
+
+![alt text](image-126.png)
+
+![alt text](image-127.png)
+
+![alt text](image-128.png)
+
+![alt text](image-129.png)
+
+![alt text](image-130.png)
+
+![alt text](image-131.png)
 
 ## Ética y privacidad en la analítica de datos
 
