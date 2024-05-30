@@ -240,9 +240,19 @@ Ver video 7_Analítica de datos en la industria financiera
 
 ## Complemento: Analítica de datos en la industria financiera
 
+Ver pdf 8_Analítica de datos en la industria financiera
+
 ## Profundización: Analítica de datos en la industria financiera
 
-## Analítica de datos en el sector público
+ver video 9_Analítica de datos en la industria financiera
+
+## Analítica de datos en el sector público|
+
+La analítica de datos ha emergido como una herramienta poderosa y transformadora en el sector público, impactando significativamente la formulación de políticas públicas y la optimización de recursos en las administraciones gubernamentales. En esta introducción, exploraremos cómo la aplicación de técnicas analíticas avanzadas y el uso efectivo de datos han revolucionado la forma en que los gobiernos toman decisiones estratégicas y operativas, mejorando la eficiencia en la prestación de servicios y el bienestar de los ciudadanos
+
+**Analisis basado e evidencias prar politica publica:**
+
+
 
 ## Complemento: Analítica de datos en el sector público
 
