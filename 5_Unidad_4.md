@@ -120,21 +120,108 @@ Ver video 4_Analitica de datos en el ambito empresarial
 
 ## Analítica de datos en la salud
 
-La analítica de datos ha emergido como una disciplina transformadora en el campo de la salud, revolucionando la forma en que se abordan el diagnóstico y la predicción de enfermedades. Con el crecimiento exponencial en la disponibilidad de datos médicos, avances tecnológicos y el desarrollo de algoritmos sofisticados, la analítica de datos ha demostrado su capacidad para mejorar la precisión y eficiencia de los procesos médicos, lo que puede tener un impacto significativo en la atención al paciente y la toma de decisiones médicas.
+La analítica de datos ha emergido como una disciplina transformadora en el campo de la salud, revolucionando la forma en que
+se abordan el diagnóstico y la predicción de enfermedades. Con el crecimiento exponencial en la disponibilidad de datos
+médicos, avances tecnológicos y el desarrollo de algoritmos sofisticados, la analítica de datos ha demostrado su capacidad
+para mejorar la precisión y eficiencia de los procesos médicos, lo que puede tener un impacto significativo en la atención
+al paciente y la toma de decisiones médicas.
 
 Paso 1
 
-El diagnóstico médico es un proceso crítico en la atención de la salud, y la analítica de datos ha allanado el camino para mejorar la precisión y rapidez en este aspecto. Mediante el análisis de grandes conjuntos de datos, como imágenes médicas, datos de laboratorio, historia clínica del paciente y otros parámetros, los algoritmos de aprendizaje automático pueden detectar patrones y anomalías que pueden escapar a la observación humana. Esto facilita la identificación temprana de enfermedades y condiciones médicas, lo que conduce a tratamientos más efectivos y una mejor gestión de la salud del paciente.
+El diagnóstico médico es un proceso crítico en la atención de la salud, y la analítica de datos ha allanado el camino para
+mejorar la precisión y rapidez en este aspecto. Mediante el análisis de grandes conjuntos de datos, como imágenes médicas,
+datos de laboratorio, historia clínica del paciente y otros parámetros, los algoritmos de aprendizaje automático pueden
+detectar patrones y anomalías que pueden escapar a la observación humana. Esto facilita la identificación temprana de
+enfermedades y condiciones médicas, lo que conduce a tratamientos más efectivos y una mejor gestión de la salud del
+paciente.
 
 Paso 1
 
-Rej-zCTYmkEeyL3B-1_Slide2.jpg
-El diagnóstico médico es un proceso crítico en la atención de la salud, y la analítica de datos ha allanado el camino para mejorar la precisión y rapidez en este aspecto. Mediante el análisis de grandes conjuntos de datos, como imágenes médicas, datos de laboratorio, historia clínica del paciente y otros parámetros, los algoritmos de aprendizaje automático pueden detectar patrones y anomalías que pueden escapar a la observación humana. Esto facilita la identificación temprana de enfermedades y condiciones médicas, lo que conduce a tratamientos más efectivos y una mejor gestión de la salud del paciente.
+Rej-zCTYmkEeyL3B-1_Slide2.jpg El diagnóstico médico es un proceso crítico en la atención de la salud, y la analítica de
+datos ha allanado el camino para mejorar la precisión y rapidez en este aspecto. Mediante el análisis de grandes conjuntos
+de datos, como imágenes médicas, datos de laboratorio, historia clínica del paciente y otros parámetros, los algoritmos de
+aprendizaje automático pueden detectar patrones y anomalías que pueden escapar a la observación humana. Esto facilita la
+identificación temprana de enfermedades y condiciones médicas, lo que conduce a tratamientos más efectivos y una mejor
+gestión de la salud del paciente.
 
 Paso 2
 
-UJEDlKlFChxiUvmZ-1_Slide3.jpg
-La analítica de datos también ha demostrado su capacidad para predecir enfermedades y evaluar el riesgo de desarrollar ciertas condiciones médicas. Mediante el análisis de datos históricos de pacientes y la identificación de factores de riesgo, se pueden crear modelos predictivos que ayuden a los profesionales de la salud a tomar decisiones proactivas para prevenir enfermedades o brindar tratamientos preventivos. Esto es especialmente relevante en el manejo de enfermedades crónicas, donde la predicción y el manejo temprano pueden mejorar la calidad de vida del paciente y reducir los costos asociados a la atención médica.
+UJEDlKlFChxiUvmZ-1_Slide3.jpg La analítica de datos también ha demostrado su capacidad para predecir enfermedades y evaluar
+el riesgo de desarrollar ciertas condiciones médicas. Mediante el análisis de datos históricos de pacientes y la
+identificación de factores de riesgo, se pueden crear modelos predictivos que ayuden a los profesionales de la salud a tomar
+decisiones proactivas para prevenir enfermedades o brindar tratamientos preventivos. Esto es especialmente relevante en el
+manejo de enfermedades crónicas, donde la predicción y el manejo temprano pueden mejorar la calidad de vida del paciente y
+reducir los costos asociados a la atención médica.
+
+Paso 3
+
+4z-o2dkiW4y-nclx-1_Slide4.jpg La analítica de datos también se ha aplicado con éxito para optimizar los recursos y mejorar
+la eficiencia en la atención médica. Mediante el análisis de flujos de pacientes, patrones de demanda y recursos
+disponibles, se pueden identificar oportunidades para mejorar los tiempos de espera, la asignación de personal y el uso de
+equipos médicos. Esto no solo beneficia a los pacientes al reducir los tiempos de espera, sino que también puede ayudar a
+los proveedores de atención médica a maximizar el uso de recursos limitados y mejorar la productividad general del sistema
+de salud.
+
+Paso 4
+
+A pesar de los beneficios, la implementación de la analítica de datos en el ámbito de la salud enfrenta desafíos y
+consideraciones éticas. La privacidad y seguridad de los datos del paciente son fundamentales y deben ser protegidas en todo
+momento. Los profesionales de la salud y los analistas de datos deben cumplir con las regulaciones y estándares de
+privacidad, y garantizar el anonimato adecuado de los datos sensibles.
+
+Además, la interpretación y toma de decisiones basadas en modelos predictivos también conlleva riesgos. Los algoritmos de
+aprendizaje automático pueden ser tan buenos como los datos en los que se entrenan, y es fundamental abordar sesgos o
+desigualdades en los datos para evitar resultados injustos o discriminativos.
+
+Paso 5
+
+El futuro de la analítica de datos en la salud se muestra prometedor, con continuas innovaciones que están transformando la
+forma en que se abordan los desafíos médicos.
+
+**Algunas de las tendencias emergentes incluyen:**
+
+Medicina personalizada: La analítica de datos está allanando el camino para la medicina personalizada, donde los
+tratamientos se adaptan a las características genéticas y específicas de cada paciente. Los análisis genómicos y la
+integración de datos de salud personalizados permiten a los médicos prescribir tratamientos más precisos y efectivos.
+
+Inteligencia artificial en diagnostico: La inteligencia artificial (IA) y el aprendizaje profundo están impulsando avances
+en el diagnóstico médico. Los algoritmos de IA pueden analizar grandes volúmenes de datos de pacientes y radiografías para
+detectar patrones y anomalías, lo que ayuda a los médicos a tomar decisiones más rápidas y precisas.
+
+Prediccion de brotes y epidemiologia: La analítica de datos se ha vuelto invaluable en la predicción y gestión de brotes de
+enfermedades. Los modelos predictivos pueden analizar datos epidemiológicos y de vigilancia para anticipar la propagación de
+enfermedades y facilitar una respuesta rápida y efectiva.
+
+Analisis de datos en diispositivos medicos: Los dispositivos médicos conectados y las aplicaciones de salud están generando
+grandes cantidades de datos sobre el bienestar de los pacientes. La analítica de datos en tiempo real permite el monitoreo
+continuo y la detección temprana de cambios en la salud, lo que es especialmente útil en el manejo de enfermedades crónicas.
+
+**Colaboracion y etica en la analitica de datos en salud:**
+
+Paso 1
+
+La analítica de datos en la salud requiere una colaboración efectiva entre profesionales de la salud, analistas de datos y
+expertos en ética. Es fundamental garantizar la calidad y fiabilidad de los datos, y abordar de manera proactiva los
+desafíos éticos y de privacidad. La transparencia y el consentimiento informado de los pacientes son esenciales en la
+recopilación y uso de datos médicos.
+
+Paso 2
+
+Además, es crucial mantener un enfoque centrado en el paciente en todo momento. La analítica de datos debe estar destinada a
+mejorar los resultados para los pacientes, proporcionando una atención más personalizada y eficiente.
+
+La analítica de datos en la salud ha revolucionado la forma en que se diagnostican y pronostican enfermedades. La capacidad
+de analizar grandes volúmenes de datos médicos ha mejorado la precisión y eficiencia en el diagnóstico, así como la
+capacidad de predecir y prevenir enfermedades. A medida que avanzamos hacia el futuro, las innovaciones en inteligencia
+artificial, medicina personalizada y dispositivos médicos conectados seguirán impulsando el potencial de la analítica de
+datos en la salud.
+
+Paso 3
+
+Es esencial abordar los desafíos éticos y de privacidad, asegurando que la analítica de datos se implemente de manera
+responsable y se enfoque en mejorar los resultados para los pacientes. Con una colaboración efectiva entre profesionales de
+la salud y analistas de datos, y un enfoque centrado en el paciente, la analítica de datos en la salud tiene el potencial de
+continuar transformando la atención médica y brindando beneficios significativos para la sociedad en general.
 
 ## Complemento: Analítica de datos en la salud
 
