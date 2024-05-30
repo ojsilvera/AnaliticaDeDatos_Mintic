@@ -120,6 +120,22 @@ Ver video 4_Analitica de datos en el ambito empresarial
 
 ## Analítica de datos en la salud
 
+La analítica de datos ha emergido como una disciplina transformadora en el campo de la salud, revolucionando la forma en que se abordan el diagnóstico y la predicción de enfermedades. Con el crecimiento exponencial en la disponibilidad de datos médicos, avances tecnológicos y el desarrollo de algoritmos sofisticados, la analítica de datos ha demostrado su capacidad para mejorar la precisión y eficiencia de los procesos médicos, lo que puede tener un impacto significativo en la atención al paciente y la toma de decisiones médicas.
+
+Paso 1
+
+El diagnóstico médico es un proceso crítico en la atención de la salud, y la analítica de datos ha allanado el camino para mejorar la precisión y rapidez en este aspecto. Mediante el análisis de grandes conjuntos de datos, como imágenes médicas, datos de laboratorio, historia clínica del paciente y otros parámetros, los algoritmos de aprendizaje automático pueden detectar patrones y anomalías que pueden escapar a la observación humana. Esto facilita la identificación temprana de enfermedades y condiciones médicas, lo que conduce a tratamientos más efectivos y una mejor gestión de la salud del paciente.
+
+Paso 1
+
+Rej-zCTYmkEeyL3B-1_Slide2.jpg
+El diagnóstico médico es un proceso crítico en la atención de la salud, y la analítica de datos ha allanado el camino para mejorar la precisión y rapidez en este aspecto. Mediante el análisis de grandes conjuntos de datos, como imágenes médicas, datos de laboratorio, historia clínica del paciente y otros parámetros, los algoritmos de aprendizaje automático pueden detectar patrones y anomalías que pueden escapar a la observación humana. Esto facilita la identificación temprana de enfermedades y condiciones médicas, lo que conduce a tratamientos más efectivos y una mejor gestión de la salud del paciente.
+
+Paso 2
+
+UJEDlKlFChxiUvmZ-1_Slide3.jpg
+La analítica de datos también ha demostrado su capacidad para predecir enfermedades y evaluar el riesgo de desarrollar ciertas condiciones médicas. Mediante el análisis de datos históricos de pacientes y la identificación de factores de riesgo, se pueden crear modelos predictivos que ayuden a los profesionales de la salud a tomar decisiones proactivas para prevenir enfermedades o brindar tratamientos preventivos. Esto es especialmente relevante en el manejo de enfermedades crónicas, donde la predicción y el manejo temprano pueden mejorar la calidad de vida del paciente y reducir los costos asociados a la atención médica.
+
 ## Complemento: Analítica de datos en la salud
 
 ## Avance: Analítica de datos en la salud
