@@ -473,3 +473,5 @@ Ver pdf 11_Ética y privacidad en la analítica de datos
 Ver video 12_Ética y privacidad en la analítica de datos_
 
 ## Kaggle herramienta adicional
+
+Ver video 13_Kaggle herramienta adicional
