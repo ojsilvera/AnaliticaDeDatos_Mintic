@@ -137,30 +137,29 @@ paciente.
 
 Paso 1
 
-Rej-zCTYmkEeyL3B-1_Slide2.jpg El diagnóstico médico es un proceso crítico en la atención de la salud, y la analítica de
-datos ha allanado el camino para mejorar la precisión y rapidez en este aspecto. Mediante el análisis de grandes conjuntos
-de datos, como imágenes médicas, datos de laboratorio, historia clínica del paciente y otros parámetros, los algoritmos de
-aprendizaje automático pueden detectar patrones y anomalías que pueden escapar a la observación humana. Esto facilita la
-identificación temprana de enfermedades y condiciones médicas, lo que conduce a tratamientos más efectivos y una mejor
-gestión de la salud del paciente.
+El diagnóstico médico es un proceso crítico en la atención de la salud, y la analítica de datos ha allanado el camino para
+mejorar la precisión y rapidez en este aspecto. Mediante el análisis de grandes conjuntos de datos, como imágenes médicas,
+datos de laboratorio, historia clínica del paciente y otros parámetros, los algoritmos de aprendizaje automático pueden
+detectar patrones y anomalías que pueden escapar a la observación humana. Esto facilita la identificación temprana de
+enfermedades y condiciones médicas, lo que conduce a tratamientos más efectivos y una mejor gestión de la salud del
+paciente.
 
 Paso 2
 
-UJEDlKlFChxiUvmZ-1_Slide3.jpg La analítica de datos también ha demostrado su capacidad para predecir enfermedades y evaluar
-el riesgo de desarrollar ciertas condiciones médicas. Mediante el análisis de datos históricos de pacientes y la
-identificación de factores de riesgo, se pueden crear modelos predictivos que ayuden a los profesionales de la salud a tomar
-decisiones proactivas para prevenir enfermedades o brindar tratamientos preventivos. Esto es especialmente relevante en el
-manejo de enfermedades crónicas, donde la predicción y el manejo temprano pueden mejorar la calidad de vida del paciente y
-reducir los costos asociados a la atención médica.
+La analítica de datos también ha demostrado su capacidad para predecir enfermedades y evaluar el riesgo de desarrollar
+ciertas condiciones médicas. Mediante el análisis de datos históricos de pacientes y la identificación de factores de
+riesgo, se pueden crear modelos predictivos que ayuden a los profesionales de la salud a tomar decisiones proactivas para
+prevenir enfermedades o brindar tratamientos preventivos. Esto es especialmente relevante en el manejo de enfermedades
+crónicas, donde la predicción y el manejo temprano pueden mejorar la calidad de vida del paciente y reducir los costos
+asociados a la atención médica.
 
 Paso 3
 
-4z-o2dkiW4y-nclx-1_Slide4.jpg La analítica de datos también se ha aplicado con éxito para optimizar los recursos y mejorar
-la eficiencia en la atención médica. Mediante el análisis de flujos de pacientes, patrones de demanda y recursos
-disponibles, se pueden identificar oportunidades para mejorar los tiempos de espera, la asignación de personal y el uso de
-equipos médicos. Esto no solo beneficia a los pacientes al reducir los tiempos de espera, sino que también puede ayudar a
-los proveedores de atención médica a maximizar el uso de recursos limitados y mejorar la productividad general del sistema
-de salud.
+La analítica de datos también se ha aplicado con éxito para optimizar los recursos y mejorar la eficiencia en la atención
+médica. Mediante el análisis de flujos de pacientes, patrones de demanda y recursos disponibles, se pueden identificar
+oportunidades para mejorar los tiempos de espera, la asignación de personal y el uso de equipos médicos. Esto no solo
+beneficia a los pacientes al reducir los tiempos de espera, sino que también puede ayudar a los proveedores de atención
+médica a maximizar el uso de recursos limitados y mejorar la productividad general del sistema de salud.
 
 Paso 4
 
@@ -225,11 +224,19 @@ continuar transformando la atención médica y brindando beneficios significativ
 
 ## Complemento: Analítica de datos en la salud
 
+Ver pdf 5_Analítica de datos en la salud
+
 ## Avance: Analítica de datos en la salud
+
+ver video 6_Analítica de datos en la salud
 
 ## Profundización: Analítica de datos en la salud
 
+![alt text](image-125.png)
+
 ## Analítica de datos en la industria financiera
+
+Ver video 7_Analítica de datos en la industria financiera
 
 ## Complemento: Analítica de datos en la industria financiera
 
