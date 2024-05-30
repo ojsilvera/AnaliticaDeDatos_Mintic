@@ -466,6 +466,10 @@ alcanzar su máximo potencial como una fuerza positiva para el beneficio de la h
 
 ## Complemento: Ética y privacidad en la analítica de datos
 
+Ver pdf 11_Ética y privacidad en la analítica de datos
+
 ## Avance: Ética y privacidad en la analítica de datos_
+
+Ver video 12_Ética y privacidad en la analítica de datos_
 
 ## Kaggle herramienta adicional
