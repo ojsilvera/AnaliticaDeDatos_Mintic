@@ -1,6 +1,6 @@
 # Presentacion Curso Analitica de datos
 
-## Bienvenida
+## Bienvenida al curso
 
 Ver video 1_Bienvenida
 
